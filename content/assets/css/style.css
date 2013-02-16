@@ -41,12 +41,16 @@ hr {
 }
 
 .xlarge-btn {
-    background-image: url("/img/appstore.png") !important;
+    background-image: url("/img/appstore-en.png") !important;
     background-position: 20px 10px;
     background-repeat: no-repeat;
     height: 70px;
     padding: 20px;
     width: 308px;
+}
+
+.xlarge-btn.ru {
+    background-image: url("/img/appstore-ru.png") !important;
 }
 
 .xlarge-btn:hover, .xlarge-btn:focus {
