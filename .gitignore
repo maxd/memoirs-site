@@ -1,0 +1,6 @@
+/output
+/tmp
+/vendor/bundle
+.DS_Store
+.idea
+*.log

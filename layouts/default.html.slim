@@ -1,0 +1,11 @@
+doctype html
+html
+  head
+    title= @item[:title]
+    meta charset="utf-8"
+    meta name="generator" content="nanoc #{Nanoc::VERSION}"
+    link href="/css/bootstrap.min.css" rel="stylesheet"
+    link href="/css/style.css" rel="stylesheet"
+    link href="/css/brandico.css" rel="stylesheet"
+  body
+    == yield
