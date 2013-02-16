@@ -30,8 +30,8 @@ h3 {
 }
 
 hr {
-    border-top: 1px solid #111;
-    border-bottom: 1px solid #222;
+    border-top: 1px solid #112;
+    border-bottom: 1px solid #223;
 }
 
 .right-main p {
@@ -64,9 +64,9 @@ hr {
 .footer {
     padding-top: 15px;
     border-top: 1px solid #111;
-    -webkit-box-shadow: inset 0 1px 0 #222;
-    -moz-box-shadow: inset 0 1px 0 #222;
-    box-shadow: inset 0 1px 0 #222;
+    -webkit-box-shadow: inset 0 1px 0 #223;
+    -moz-box-shadow: inset 0 1px 0 #223;
+    box-shadow: inset 0 1px 0 #223;
 }
 
 .footer p {
